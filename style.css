@@ -1,0 +1,69 @@
+h1 {
+    font-weight: 900;
+}
+
+button.navbar-toggler {
+    border: none;
+}
+
+.container p {
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+}
+
+.brand {
+    font-family: "Inter", sans-serif;
+    font-size: 2.5em;
+    letter-spacing: -1px;
+    font-weight: 700;
+}
+
+div nav h1 {
+    font-weight: 900;
+    font-family: "Inter", sans-serif;
+    font-size: 4em;
+    letter-spacing: -3px;
+}
+
+.hero p {
+    font-weight: 500;
+}
+
+.photo {
+    top: 0;
+    left: 0;
+    width: 50vw;
+    height: 100vh;
+    background-color: gray; /* Adjust as needed */
+    z-index: -1; /* To make sure it stays behind other content */
+}
+
+.hero h1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+.custom-container {
+    padding: 10px;
+}
+
+.photo-small {
+    top: 0;
+    left: 0;
+    width: 50vw;
+    height: 50vh;
+    background-color: gray; /* Adjust as needed */
+    z-index: -1; /* To make sure it stays behind other content */
+}
+
+.about h1 {
+    font-weight:700;
+}
