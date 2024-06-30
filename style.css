@@ -42,8 +42,8 @@ div nav h1 {
     left: 0;
     width: 50vw;
     height: 100vh;
-    background-color: gray; /* Adjust as needed */
-    z-index: -1; /* To make sure it stays behind other content */
+    background-color: gray; /* Adjust as needed */ /* To make sure it stays behind other content */
+    cursor: pointer;
 }
 
 .hero h1 {
@@ -66,4 +66,11 @@ div nav h1 {
 
 .about h1 {
     font-weight:700;
+}
+.sustain h1 {
+    font-weight:700;
+}
+
+a svg path {
+    fill: #000; /* Replace #000 with your desired color */
 }
